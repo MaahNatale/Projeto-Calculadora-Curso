@@ -1,6 +1,6 @@
-# Calculadora 
+# 🧮 Calculadora 
 
-## Como executar o arquivo .sh
+## 💻 Como executar o arquivo .sh
 
 Para executar o arquivo `calculadora.sh` em um terminal Linux:
 
@@ -14,7 +14,7 @@ Para executar o arquivo `calculadora.sh` em um terminal Linux:
 
 O programa solicitará dois números e exibirá os resultados das operações de soma, subtração, multiplicação e divisão.
 
-## Explicação do código em Python
+## 🐍 Explicação do código em Python
 
 O código desenvolvido é uma calculadora simples que recebe dois números digitados pelo usuário e permite escolher entre quatro operações matemáticas: soma, subtração, multiplicação e divisão.
 
