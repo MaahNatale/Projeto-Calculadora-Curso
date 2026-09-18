@@ -1,4 +1,4 @@
-# Projeto Calculadora - Curso
+# Calculadora 
 
 ## Como executar o arquivo .sh
 
